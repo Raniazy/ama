@@ -1,6 +1,4 @@
-# ama
-
-[![Buy me a book][badge_amazon]][http://amzn.eu/hRo9sIZ]
+[![Buy me a book][badge_amazon]][amazon]
 
 <h2 align="center">
  :dizzy: Ask me anything! :sparkles:<br><br>
@@ -15,19 +13,12 @@ By *Anything* I mean : Personal questions, Code, Data, Bots, Life, Money, Cats .
 - Be nice :blush:
 
 
-
-### Guidelines
-
-     - :mag: Ensure your question hasn't already been answered.
-     - :memo: Use a succinct title and description.
-     - :bug: Bugs & feature requests should be opened on the relevant issue tracker.
-     - :signal_strength: Support questions are better asked on Stack Overflow.
-     - :blush: Be nice, civil and polite.
-     - :heart_eyes: If you include at least one emoji in your question, the feedback will
-       probably come faster.
-
 ### Links
 
  - [Read more AMAs](https://github.com/sindresorhus/amas)
  - [Read more AMAs](https://github.com/IonicaBizau/ama)
  - [What's an AMA?](https://en.wikipedia.org/wiki/Reddit#AMAs_("Ask_Me_Anything"))
+
+
+[badge_amazon]: https://ionicabizau.github.io/badges/amazon.svg
+[amazon]: https://www.amazon.co.uk/hz/wishlist/ls/2LV223T7LVJAH
